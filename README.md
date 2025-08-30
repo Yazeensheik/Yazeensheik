@@ -1,48 +1,57 @@
 # 👋 Hi, I'm Yazeenkhan  
 
 🎓 **B.Tech in Artificial Intelligence and Data Science (2021–2025)**  
-📌 Passionate about **Data Science, Machine Learning, and Analytics**  
-💡 Exploring **AI-powered solutions, data-driven insights, and automation**  
+💡 Interested in **Data Science | Machine Learning | Analytics**  
+📌 Skilled in programming, data tools, and full-stack technologies  
 
 ---
 
-## 🚀 Skills & Tools  
+## 🚀 Skills  
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)  
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+**Programming:**  
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white) 
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) 
+![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white) 
+![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)  
 
----
+**Data Tools:**  
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi&logoColor=black) 
+![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white)  
 
-## 📂 Featured Projects  
+**Web Development:**  
+![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white) 
+![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) 
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)  
 
-🔹 **Opioid Abuse Detection System** – Predictive healthcare analytics using ML  
-🔹 **Metroscope (IoT + Data Analytics)** – Smart environment monitoring system  
-🔹 **TrainLab Academy Website** – Full-stack website for an ed-tech platform  
-🔹 **E-commerce Chatbot (Kore.ai)** – Conversational AI for online shopping  
+**Database:**  
+![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white)  
 
----
-
-## 🌟 Highlights  
-
-- 🏆 Finalist at **TEMENOS, AARUUSH’23 (SRM KTR)**  
-- 🥈 Secured **2nd Prize in Coding/Debugging at MITILENCE 2023**  
-- 🌍 Active member of **Google Developer Student Club (GDSC)**  
+**AI & ML:**  
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=flat&logo=ai&logoColor=white)  
 
 ---
 
-## 📫 Connect with Me  
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yazeenkhansheik@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yazeenkhans5786/)  
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yazeensheik)  
+## 📂 Projects  
+- **Opioid Abuse Detection System** – ML for healthcare analytics  
+- **Metroscope (IoT + Data Analytics)** – Smart environment monitoring  
+- **TrainLab Academy Website** – Web app for an ed-tech platform  
+- **E-commerce Chatbot** – Conversational AI using Kore.ai  
 
 ---
 
-✨ *“Driven by curiosity, powered by data.”*  
+## 🌟 Achievements  
+🏆 Finalist – **TEMENOS, AARUUSH’23 (SRM KTR)**  
+🥈 2nd Prize – **Coding/Debugging, MITILENCE 2023**  
+🌍 Member – **Google Developer Student Club (GDSC)**  
+
+---
+
+## 📫 Connect  
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yazeenkhansheik@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yazeenkhans5786/)  
+[![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/Yazeensheik)  
+
+---
+
+✨ *Driven by curiosity, powered by data.*  
