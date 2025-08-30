@@ -1,16 +1,48 @@
-## Hi there 👋
+# Hi there, I'm Yazeenkhan 👋  
 
-<!--
-**Yazeensheik/Yazeensheik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **B.Tech in Artificial Intelligence and Data Science (2021–2025)**  
+💼 Aspiring **JavaScript Developer | Data Science & Machine Learning Enthusiast**  
+🌱 Passionate about **building scalable apps, problem-solving, and continuous learning**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me  
+- 👨‍💻 Skilled in **JavaScript, Python, Java, SQL, HTML, CSS, React**  
+- 📊 Experienced in **Data Analytics (Power BI, Tableau, MySQL)**  
+- 🤖 Worked on **Machine Learning & Automation projects**  
+- 🏆 Finalist in **TEMENOS at AARUUSH’23 (SRM KTR)**  
+- 🏅 2nd Prize in **Coding/Debugging at MITILENCE 2023**  
+- 🌍 Member of **Google Developer Student Club (GDSC)**  
+
+---
+
+## 📂 Featured Projects  
+- 🔹 **Opioid Abuse Detection System** – Data-driven predictive model for healthcare  
+- 🔹 **Metroscope (IoT + Data Analytics)** – Smart environment monitoring system  
+- 🔹 **TrainLab Academy Website** – Full-stack website for an ed-tech platform  
+- 🔹 **E-commerce Chatbot (Kore.ai)** – Conversational AI solution for online stores  
+
+---
+
+## 🛠️ Tech Stack  
+**Languages:** C, Python, Java, JavaScript, SQL  
+**Web Dev:** HTML, CSS, React, Node.js  
+**Data Tools:** Power BI, Tableau, MySQL  
+**Other:** UI Path Automation, Git/GitHub  
+
+---
+
+## 📈 GitHub Stats  
+![Yazeen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yazeensheik&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yazeensheik&layout=compact&theme=radical)  
+
+---
+
+## 📫 Connect with Me  
+- **Email:** yazeenkhansheik@gmail.com  
+- **LinkedIn:** [linkedin.com/in/yazeenkhans5786](https://www.linkedin.com/in/yazeenkhans5786/)  
+- **GitHub:** [github.com/Yazeensheik](https://github.com/Yazeensheik)  
+
+---
+
+⭐️ *“Code. Learn. Build. Repeat.”*  
