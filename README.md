@@ -6,7 +6,7 @@
 </h3>
 
 <p align="center">
-  Building scalable REST APIs, full-stack applications, and data-driven solutions.
+  Building scalable REST APIs, backend systems, and full-stack applications.
 </p>
 
 ---
@@ -14,11 +14,11 @@
 ## 🧑‍💻 About Me
 
 - 🎓 B.Tech in **Artificial Intelligence and Data Science**
-- 💻 Focused on **Java Full Stack Development**
-- 🔥 Skilled in **Spring Boot, REST APIs, MySQL, HTML, CSS, JavaScript**
-- 🧠 Interested in **Machine Learning, Analytics, and Backend Architecture**
-- 🏗️ Currently building professional-grade projects with clean architecture
-- 🎯 Goal: Become a strong **Full Stack / Backend Developer**
+- 💻 Specialized in **Backend Development using Spring Boot**
+- 🧠 Strong in **REST API Design, Database Integration, and System Architecture**
+- ⚙️ Hands-on with **Swagger, H2 Database, Postman, and API Testing**
+- 🚀 Passionate about building **real-world scalable applications**
+- 🎯 Targeting roles in **Backend / Full Stack Development**
 
 ---
 
@@ -31,11 +31,12 @@
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
 </p>
 
-### 🚀 Backend
+### 🚀 Backend & API Development
 <p>
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
   <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=fastapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/Microservices-FF6F00?style=for-the-badge&logo=apache&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Swagger_API-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>
 </p>
 
 ### 🌐 Frontend
@@ -49,9 +50,9 @@
 ### 🗄️ Database & Tools
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/H2_Database-0E83CD?style=for-the-badge&logo=databricks&logoColor=white"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
 ### 📊 Data & Analytics
@@ -67,44 +68,57 @@
 
 ### 🏦 Maverick Bank – Banking Web Application
 
-A full-stack banking web application built to simulate real-world financial operations.
+A **production-style banking backend system** simulating real-world financial operations.
 
 **Key Highlights**
-- Developed REST APIs for account management, transactions, and user services
-- Built using layered architecture: Controller, Service, Repository
-- Implemented authentication and authorization
-- Integrated MySQL database
-- Followed clean backend development workflow
+- Designed REST APIs for account creation, transactions, and user services  
+- Implemented layered architecture (Controller → Service → Repository)  
+- Integrated **Spring Security (Basic Auth)** for authentication  
+- Used **Swagger UI for API documentation & testing**  
+- Configured **H2 Database for development/testing environment**  
+- Integrated MySQL for persistent storage  
+- Followed clean code practices and modular structure  
 
-**Tech Stack:** Java, Spring Boot, REST APIs, MySQL, Git
+**Tech Stack:** Java, Spring Boot, REST APIs, Swagger, H2, MySQL, Git  
 
 ---
 
 ### 💊 Opioid Abuse Detection System
 
-A healthcare analytics project designed to detect opioid abuse patterns using patient behavioral and medical data.
+A **data-driven healthcare analytics system** to detect opioid abuse patterns.
 
 **Key Highlights**
-- Built REST APIs and role-based dashboards
-- Integrated machine learning techniques for analysis
-- Created doctor and patient workflow
-- Used MySQL for data storage and reporting
+- Built REST APIs and role-based dashboards  
+- Applied machine learning techniques on patient data  
+- Designed workflow for doctors and patients  
+- Used MySQL for efficient storage and reporting  
 
-**Tech Stack:** Python, Flask, Machine Learning, MySQL, HTML, CSS, JavaScript
+**Tech Stack:** Python, Flask, Machine Learning, MySQL, HTML, CSS, JavaScript  
 
 ---
 
 ### 🌍 Metroscope – IoT Data Analytics System
 
-An IoT and analytics-based system for monitoring environmental data.
+An **IoT-based real-time analytics platform** for environmental monitoring.
 
 **Key Highlights**
-- Processed IoT sensor data
-- Used PySpark for large dataset handling
-- Designed Tableau dashboards for visual analytics
-- Built a Tkinter-based interface for descriptive analytics
+- Processed IoT sensor data using PySpark  
+- Built dashboards with Tableau for insights  
+- Developed GUI interface for analytics visualization  
 
-**Tech Stack:** Python, PySpark, MySQL, Tableau, Tkinter, IoT
+**Tech Stack:** Python, PySpark, MySQL, Tableau, Tkinter  
+
+---
+
+## 📊 API & Backend Capabilities
+
+- 🔹 RESTful API Design (CRUD, layered architecture)  
+- 🔹 Swagger UI Integration for API documentation  
+- 🔹 H2 Database for in-memory testing  
+- 🔹 MySQL for production-ready persistence  
+- 🔹 Authentication & Authorization (Spring Security)  
+- 🔹 Postman API Testing & Validation  
+- 🔹 Exception Handling (Global Exception Handler)  
 
 ---
 
@@ -123,11 +137,11 @@ An IoT and analytics-based system for monitoring environmental data.
 
 ## 🏆 Achievements
 
-- 🏅 Finalist – **TEMENOS, AARUUSH’23, SRM KTR**
-- 🥈 2nd Prize – **Coding & Debugging, MITILENCE 2023**
-- 🌍 Member – **Google Developer Student Club**
-- 🎓 Certified in **Python for Data Science**
-- ☕ Certified in **Java Full Stack Development**
+- 🏅 Finalist – TEMENOS, AARUUSH’23 (SRM KTR)  
+- 🥈 2nd Prize – Coding & Debugging, MITILENCE 2023  
+- 🌍 Google Developer Student Club Member  
+- 🎓 NPTEL Certified – Python for Data Science  
+- ☕ Java Full Stack Certification  
 
 ---
 
@@ -148,5 +162,5 @@ An IoT and analytics-based system for monitoring environmental data.
 ---
 
 <h3 align="center">
-✨ Focused on building scalable systems and solving real-world problems through code.
+🔥 Building production-ready backend systems with clean architecture.
 </h3>
